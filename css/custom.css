@@ -1,0 +1,18 @@
+.highlight-custom-blue {
+  color: #1b91ff;
+}
+
+.reveal .text-overlay {
+  text-transform: capitalize !important;
+  background: rgba(0,0,0,0.5);
+  display: inline-block;
+  padding: .1em .5em;
+}
+
+.reveal .text-overlay.bottom {
+  margin-top: 400px;
+}
+
+img.plain.padded {
+  padding: 1em;
+}
